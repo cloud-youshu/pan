@@ -1,8 +1,7 @@
 ## 有数云盘（内部版）
 
-You can use the [editor on GitHub](https://github.com/cloud-youshu/pan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+有数云盘内部版支持Windows及Mac系统，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码）；
+有数项目人员需开通使用时，请联系技术团队，提供手机号码进行内测版使用权限开通 ：）
 
 ### Markdown
 
