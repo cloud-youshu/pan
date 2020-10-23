@@ -9,7 +9,7 @@
 [![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download/youshu_pan_mac_2.0.dmg?e=1634971582&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:hTL0WHsCD98VfAadax-g6jazImM=)
 
 ## 说明文档 
-[了解网盘功能，请查看文档](http://docs.cloudin.com/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
+[了解云盘功能，请查看文档](http://docs.cloudin.com/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
 
 ## 更新记录
 
