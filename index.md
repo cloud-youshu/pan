@@ -11,6 +11,13 @@
 ## 说明文档 
 [了解云盘功能，请查看文档](http://docs.cloudin.com/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
 
+## Mac版注意事项
+1.安装云盘客户端；
+2.如果电脑是macOS Catalina版本，打开后可能存在安装损坏的提示;
+3.关掉提示弹窗，打开终端，输入如下命令，再次打开即可。
+
+sudo xattr -d com.apple.quarantine /Applications/有数云盘.app
+
 ## 更新记录
 
 2.0 界面全新改版，简化使用流程，纯客户端使用；性能稳定性较大的提升；支持覆盖上传；
