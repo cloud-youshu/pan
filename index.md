@@ -8,6 +8,9 @@
 [![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download/youshu_pan_win_setup_2.0.exe?e=1634971605&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:NSIARcil052VDvbNTpjjF-b19p4=)
 [![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download/youshu_pan_mac_2.0.dmg?e=1634971582&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:hTL0WHsCD98VfAadax-g6jazImM=)
 
+## 说明文档 
+[了解网盘功能，请查看文档](http://docs.cloudin.com/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
+
 ## 更新记录
 
 2.0 界面全新改版，简化使用流程，纯客户端使用；性能稳定性较大的提升；支持覆盖上传；
