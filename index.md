@@ -1,12 +1,12 @@
 ## 简介
 
-有数云盘内测版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码）。</br>
+有数云盘内测版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码）。
 有数项目人员需开通使用时，请联系技术团队，提供手机号码进行内测版使用权限开通 ：）
 
-## 下载  
-######2.0版本
-[![](./images/windows.png)](http://www.baidu.com)
-[![](./images/mac.png)](http://www.baidu.com)
+## 下载  (2.0版本)
+
+[![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download/youshu_pan_win_setup_2.0.exe?e=1634971605&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:NSIARcil052VDvbNTpjjF-b19p4=)
+[![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download/youshu_pan_mac_2.0.dmg?e=1634971582&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:hTL0WHsCD98VfAadax-g6jazImM=)
 
 ## 更新记录
 
