@@ -9,7 +9,7 @@
 [![](./images/mac.png)](http://testin-youshu-zhongbao.oss-cn-hangzhou.aliyuncs.com/pan-cloud/youshu_pan_mac_2.1.dmg)
 
 ## 说明文档 
-[了解云盘功能，请查看文档](http://docs.cloudin.com/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
+[了解云盘功能，请查看文档](http://ai-docs.testin.cn/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
 
 ## Mac版注意事项
 1.安装云盘客户端;  
