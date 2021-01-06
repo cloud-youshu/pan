@@ -1,12 +1,12 @@
 ## 简介
 
-有数云盘正式版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码）。
+有数云盘正式版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码），支持导出文件摘要信息CSV（用于统计目录下重复文件）。
 有数项目人员需开通使用时，请联系技术团队，提供手机号码进行正式版使用权限开通 ：）
 
-## 下载  (2.1版本)
+## 下载  (2.2版本)
 
-[![](./images/windows.png)](http://testin-youshu-zhongbao.oss-cn-hangzhou.aliyuncs.com/pan-cloud/youshu_pan_win_setup_2.1.exe)
-[![](./images/mac.png)](http://testin-youshu-zhongbao.oss-cn-hangzhou.aliyuncs.com/pan-cloud/youshu_pan_mac_2.1.dmg)
+[![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download20210106/youshu_pan_win_setup_2.2.exe?e=2473921077&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:88D74ANYL11LQyugnvLwDv1Rsq4=)
+[![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download20210106/youshu_pan_mac_setup_2.2.dmg?e=2473921004&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:uZKT_mVn0-bV9vW1UWa-ja_p0Pw=)
 
 ## 说明文档 
 [了解云盘功能，请查看文档](http://ai-docs.testin.cn/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
@@ -19,6 +19,10 @@
 sudo xattr -d com.apple.quarantine /Applications/有数云盘.app
 
 ## 更新记录 
+2021/01/06  V2.2  
+1、导出CSV使用文件名称命名，同名CSV追加序号；  
+2、右键菜单新增“导出文件摘要信息”，统计目录下是否有重复文件并标出行号，保存为CSV；  
+
 2020/12/07  V2.1  
 1、新增拖拽上传；  
 2、支持文件选择历史记忆；  
