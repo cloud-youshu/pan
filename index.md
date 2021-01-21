@@ -9,7 +9,7 @@
 [![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download20210121/testin_pan_mac_setup_2.3.dmg?e=1661281292&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:kHwMFrYfDoagbrVe9asGf5tpVTE=)
 
 ## 说明文档 
-[了解网盘功能，请查看文档](http://ai-docs.testin.cn/tools/youshucloud2.0/%E6%9C%89%E6%95%B0%E4%BA%91%E7%9B%982.0.html)  
+[了解网盘功能，请查看文档](http://ai-docs.testin.cn/tools/youshucloud2.0/%E4%BA%91%E6%B5%8B%E7%BD%91%E7%9B%982.0.html)  
 
 ## Mac版注意事项
 1.安装网盘客户端;  
