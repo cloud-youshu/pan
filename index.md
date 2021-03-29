@@ -3,13 +3,13 @@
 云测网盘正式版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码），支持导出文件摘要信息CSV（用于统计目录下重复文件），扩展工具箱，常用工具便捷使用。
 项目人员需开通使用时，请联系技术团队，提供手机号码进行正式版使用权限开通 ：）
 
-## 下载  (2.5版本)
+## 下载  (2.6版本)
 
-[![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download20210305/testin_pan_win_setup_2.5.exe?e=1646470657&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:PT1wo8OoAi3Pm87lVVSsVSqq4oU=)
-[![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download20210305/testin_pan_mac_setup_2.5.dmg?e=1646470642&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:xqjqwBJFhc3NfgYgpXxjBzUzA5o=)
+[![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download20210329/testin_pan_win_setup_2.6.exe?e=1648526840&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:8zh0_jxbcjCbVQ-ECak4j4TNe_c=)
+[![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download20210329/testin_pan_mac_setup_2.6.dmg?e=1648526822&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:yZ197KdWeCZbfg6gWngjUqMbH4k=)
 
 ## 说明文档 
-[了解网盘功能，请查看文档](http://ai-docs.testin.cn/tools/youshucloud2.0/%E4%BA%91%E6%B5%8B%E7%BD%91%E7%9B%982.0.html)  
+[了解网盘功能，请查看文档](https://testindata.gitbook.io/label/pan/files)  
 
 ## Mac版注意事项
 1.安装网盘客户端;  
@@ -19,6 +19,9 @@
 sudo xattr -d com.apple.quarantine /Applications/云测网盘.app
 
 ## 更新记录  
+2021/03/29 V2.6  
+1、工具箱新增视频抽帧，支持间隔秒数以及间隔帧数抽帧，支持进度展示。  
+
 2021/03/05  V2.5  
 1、更新主页以及工具箱图标；  
 2、导航栏双击返回上一层；  
