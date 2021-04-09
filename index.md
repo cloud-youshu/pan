@@ -3,10 +3,10 @@
 云测网盘正式版支持Windows及Mac系统，可实现上传，支持断点续传，导出CSV（用于标注平台创建标注任务），支持下载链接分享（可设定密码），支持导出文件摘要信息CSV（用于统计目录下重复文件），扩展工具箱，常用工具便捷使用。
 项目人员需开通使用时，请联系技术团队，提供手机号码进行正式版使用权限开通 ：）
 
-## 下载  (2.6版本)
+## 下载  (2.6.1版本)
 
-[![](./images/windows.png)](http://ysdm.saasv.com/pan/581242/download20210329/testin_pan_win_setup_2.6.exe?e=1648526840&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:8zh0_jxbcjCbVQ-ECak4j4TNe_c=)
-[![](./images/mac.png)](http://ysdm.saasv.com/pan/581242/download20210329/testin_pan_mac_setup_2.6.dmg?e=1648526822&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:yZ197KdWeCZbfg6gWngjUqMbH4k=)
+[![](./images/windows.png)](http://ysdm.yscdn.testin.cn/pan/581242/download20210409/testin_pan_win_setup_2.6.1.exe?e=1649474260&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:8RSBVxPoc7xpduESJx7MR_eQoCs=)
+[![](./images/mac.png)](http://ysdm.yscdn.testin.cn/pan/581242/download20210409/testin_pan_mac_setup_2.6.1.dmg?e=1649474095&token=zWgdjdRsH7WGyRTkxjc31KVUk1X8EoyE9qStHqaU:Vi2MyRUVgxl6-C4Qv9LNSEJjO7s=)
 
 ## 说明文档 
 [了解网盘功能，请查看文档](https://testindata.gitbook.io/label/pan/files)  
